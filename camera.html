@@ -1,0 +1,29 @@
+<html lang=en> 
+    <head> <!-- bpid --> 
+        <meta name=viewport content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes"> 
+        <meta id=theme-color name=theme-color content=#fff> <base target=_blank> 
+        <title>Still Waiting...</title> <link href=styles/main.css rel=stylesheet> 
+        <script src="face-api.min.js"></script>
+        <style>
+            body{
+                margin: 0;
+                padding: 0;
+                width: 100vw;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            canvas{
+                position: absolute;
+            }
+        </style>
+    </head> 
+    <body> 
+        <div id=main-container> 
+        <h1 id=extension-name>Waiting for the guilty...</h1> 
+        <div id=video-container> <video id=video width="420" height="220" autoplay muted></video> </div> 
+        <canvas id=canvas> </canvas> <div class=clear-both></div> 
+        </div> <script src=camera.js></script> 
+    </body> 
+</html> 

@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Descrierea aplicației",
+      "message": "Când extensia este activă, va detecta fața căruia se află în fața computerului și îi va face fotografia pentru trimiterea în contul dvs. Google Drive."
+   },
+   "appName": {
+      "description": "Numele aplicației",
+      "message": "Detector de Spionaj"
+   }
+}

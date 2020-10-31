@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Start to Detect"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXaBUTn1PNjYo8fg+1JBmWBA3bdrn7siqzkY0tYeuNHIWi5ji+6V5Y3QWYRFQh3AFwrZaBItvaM3fsit7K++kDoD67VhYGrGd+mjl4Htmp+/HbzzCQMBJdTdTOvR722+VHmIttzbe/I7GB3a74KvPYfUENONj1tswyKkuXeMgFOQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "oauth2": {
+      "client_id": "696763237280-bkfouv0030la6l9t2g1elim04no836fq.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/drive.file" ]
+   },
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "identity" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5"
+}

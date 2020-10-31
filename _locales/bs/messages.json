@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Opis prijave",
+      "message": "Kada je dodatak aktivan, detektirat će lice ispred računara i snimiti njegovu sliku za slanje na vaš račun Google diska."
+   },
+   "appName": {
+      "description": "Naziv aplikacije",
+      "message": "Detektor špijuna"
+   }
+}

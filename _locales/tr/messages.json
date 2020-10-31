@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Uzantının açıklaması",
+      "message": "Uzantı aktif olduğunda bilgisayara bakan biri olursa, insan yüzünü algılar ve fotoğrafını çekip Google Drive hesabına yollar."
+   },
+   "appName": {
+      "description": "Uzantı adı",
+      "message": "Casus Dedektörü"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "When extension active it will detect face whose in front of PC and takes a snapshot for sending to your Google Drive account."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Spy Detector"
+   }
+}
