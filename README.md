@@ -3,7 +3,12 @@
 
 When extension active it will detect face whose in front of PC and takes a snapshot for sending to your Google Drive account.
 
-# Where can I use
+### Chrome Web Store
+| Chrome Web Store Name | Url |
+| ------ | ------ |
+| Spy Detector | https://chrome.google.com/webstore/detail/spy-detector/joiopjepacfpjmplekfahnnignnoeomb?hl=tr |
+
+### Where can I use
 
 Let's say you put your PC on the desk and went to kitchen for drink water and before you left you activated this extension. Spy Detector will proceed at the background and wait for to detect human face. As soon as someone look your PC screen it will take a snapshot immediately with webcam and send to your Google Drive account. Also copies that Google Drive image Url to your clipboard.
 
